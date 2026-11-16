@@ -1,0 +1,29 @@
+# Python sanal ortamları
+.venv/
+venv/
+
+# Python geçici dosyaları
+__pycache__/
+*.pyc
+.DS_Store
+
+# Büyük veri seti
+veri_seti/
+
+# Model ağırlıkları
+*.pt
+
+# Yedek kodlar
+kodlar_yedek/
+
+# Otomatik oluşturulan YOLO çıktıları
+runs/
+
+# Büyük test çıktıları
+sonuclar/uygulama/
+sonuclar/gaussian_val/
+sonuclar/karanlik_gamma_val/
+sonuclar/keskinlestirme_val/
+sonuclar/test_*/
+
+# Grafikler ve CSV dosyaları yüklenebilir

@@ -1,0 +1,9 @@
+Yontem,Insan,Otobus,Toplam,Tum Nesneler
+Normal,4,1,5,"{'bus': 1, 'person': 4}"
+Karanlik,3,1,4,"{'person': 3, 'bus': 1}"
+Gamma,4,1,5,"{'person': 4, 'bus': 1}"
+Bulanik,4,1,6,"{'person': 4, 'bus': 1, 'dog': 1}"
+Keskinlestirilmis,4,1,5,"{'bus': 1, 'person': 4}"
+Gurultulu,4,0,4,{'person': 4}
+Gaussian,3,1,5,"{'person': 3, 'bus': 1, 'skateboard': 1}"
+Median,3,1,4,"{'person': 3, 'bus': 1}"

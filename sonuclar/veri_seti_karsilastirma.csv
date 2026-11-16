@@ -1,0 +1,5 @@
+Yontem,Precision,Recall,mAP50,mAP50-95
+Orijinal,0.631,0.5301,0.6026,0.4438
+Karanlik,0.6091,0.536,0.5883,0.441
+Bulanik,0.516,0.4686,0.5042,0.3704
+Gurultulu,0.6691,0.3183,0.3945,0.2803
